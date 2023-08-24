@@ -1,0 +1,12 @@
+TTL 604800
+@ IN SOA ns1.goshop.net. root.goshop.net. (
+         2 ; Serial
+         604800 ; Refresh
+         86400 ; Retry
+         2419200 ; Expire
+         604800 ) ; Negative TTL
+
+@     IN NS ns1.
+98    IN PTR ns1.goshop.net.
+97    IN PTR www.goshop.net.
+53    IN PTR mail.goshop.net.
