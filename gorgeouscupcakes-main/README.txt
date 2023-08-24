@@ -1,7 +1,7 @@
-install by creating database gorgeous_cupcakes on mysql localhost
-import gorgeous_cupcakes_v1.sql file into new database
+install by creating database gorgeouscupcakes on mysql localhost
+import gorgeouscupcakes_v1.sql file into new database
 
-run by visiting http://localhost/gorgeous_cupcakes
+run by visiting http://localhost/gorgeouscupcakes
 
 Database has one user already defined:
 Username: admin
